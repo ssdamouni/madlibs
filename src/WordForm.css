@@ -1,0 +1,16 @@
+.form{
+    position: relative;
+    top: 0px;   
+    left: 0px;
+}
+.invisible{
+    visibility: hidden;
+}
+.visible{
+    visibility: visible;
+}
+#final-paragraph{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
